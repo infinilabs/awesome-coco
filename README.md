@@ -30,7 +30,7 @@ Coco AI is a fully open-source, cross-platform intelligent search and assistant 
 - ![date](https://img.shields.io/badge/date-2025--04--06-blue?style=flat-square) [Coco AI v0.3 Launches with Powerful Widget Integration for External Platforms](https://blog.infinilabs.com/posts/2025/04-06-product-released-coco-ai-v0.3/)
 - ![date](https://img.shields.io/badge/date-2025--04--28-blue?style=flat-square) [Coco AI v0.4 released, improved assistant settings, added MCP support](https://blog.infinilabs.com/posts/2025/04-28-product-released-coco-ai-v0.4/)
 - ![date](https://img.shields.io/badge/date-2025--06--03-blue?style=flat-square) [Coco AI v0.5 Unlocks Local Plugins, Smarter App Search, AI Overview and Instant AI Command](https://blog.infinilabs.com/posts/2025/06-11-product-released-coco-ai-v0.5/)
-- ![date](https://img.shields.io/badge/date-2025--06--29-blue?style=flat-square) [Coco AI v0.6 released](https://blog.infinilabs.com/posts/2025/06-29-product-released-coco-ai-v0.6/)
+- ![date](https://img.shields.io/badge/date-2025--06--29-blue?style=flat-square) [Coco AI v0.6 released, introduce the extension store](https://blog.infinilabs.com/posts/2025/06-29-product-released-coco-ai-v0.6/)
 
 ### 📝 Blogs & Articles
 
@@ -53,7 +53,7 @@ Coco AI is a fully open-source, cross-platform intelligent search and assistant 
 ### 💬 Community Discussion
 
 - [微信小助手：INFINI-Labs](INFINI-Labs)
-![INFINI-Labs 微信二维码](./assets/wechat-qrcode.jpg)
+    ![INFINI-Labs 微信二维码](./assets/wechat-qrcode.jpg)
 - [Discord](https://discord.com/invite/4tKTMkkvVX)
 - [Twitter / X](https://x.com/infinilabs)
 
