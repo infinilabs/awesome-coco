@@ -87,7 +87,7 @@ We welcome anyone who helps improve this list!
 
 ## 📄 License
 
-MIT License © [INFINI Labs](https://infinilabs.com)
+MIT License © [INFINI Labs](https://github.com/infinilabs)
 
 ---
 
