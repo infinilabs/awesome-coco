@@ -30,7 +30,7 @@ Coco AI is a fully open-source, cross-platform intelligent search and assistant 
 - ![date](https://img.shields.io/badge/date-2025--04--06-blue?style=flat-square) [Coco AI v0.3 Launches with Powerful Widget Integration for External Platforms](https://blog.infinilabs.com/posts/2025/04-06-product-released-coco-ai-v0.3/)
 - ![date](https://img.shields.io/badge/date-2025--04--28-blue?style=flat-square) [Coco AI v0.4 released, improved assistant settings, added MCP support](https://blog.infinilabs.com/posts/2025/04-28-product-released-coco-ai-v0.4/)
 - ![date](https://img.shields.io/badge/date-2025--06--03-blue?style=flat-square) [Coco AI v0.5 Unlocks Local Plugins, Smarter App Search, AI Overview and Instant AI Command](https://blog.infinilabs.com/posts/2025/06-11-product-released-coco-ai-v0.5/)
-- ![date](https://img.shields.io/badge/date-2025--06--29-blue?style=flat-square) [Coco AI v0.6 released, introduce the extension store](https://blog.infinilabs.com/posts/2025/06-29-product-released-coco-ai-v0.6/)
+- ![date](https://img.shields.io/badge/date-2025--06--29-blue?style=flat-square) [Coco AI v0.6 Released: Introducing the Extension Store](https://blog.infinilabs.com/posts/2025/06-29-product-released-coco-ai-v0.6/)
 
 ### 📝 Blogs & Articles
 
@@ -49,16 +49,26 @@ Coco AI is a fully open-source, cross-platform intelligent search and assistant 
 
 ### 🧠 Learning & Tutorials
 
-
-### 💬 Community Discussion
-
-- [微信小助手：INFINI-Labs](INFINI-Labs)
-    ![INFINI-Labs 微信二维码](./assets/wechat-qrcode.jpg)
-- [Discord](https://discord.com/invite/4tKTMkkvVX)
-- [Twitter / X](https://x.com/infinilabs)
+- ![tauri](https://img.shields.io/badge/type-tauri-orange?style=flat-square) [更适合 Web 开发人员的桌面应用开发解决方案](https://juejin.cn/post/7429230912292585513)
+- ![tauri](https://img.shields.io/badge/type-tauri-orange?style=flat-square) [Tauri + React 快速入门，已开源](https://juejin.cn/post/7450006685228564543)
+- ![tauri](https://img.shields.io/badge/type-tauri-orange?style=flat-square) [先搞定 Tauri 的窗口配置](https://juejin.cn/post/7452903343411085331)
+- ![tauri](https://img.shields.io/badge/type-tauri-orange?style=flat-square) [Tauri 实现托盘菜单和图标切换功能](https://juejin.cn/post/7460781093094670386)
+- ![tauri](https://img.shields.io/badge/type-tauri-orange?style=flat-square) [通过浏览器唤起 Tauri 桌面应用](https://juejin.cn/post/7462081222710591497)
+- ![tauri](https://img.shields.io/badge/type-tauri-orange?style=flat-square) [Tauri APP 端监听 Web 端授权实现 OAuth 登录功能](https://juejin.cn/post/7462420892509863986)
+- ![tauri](https://img.shields.io/badge/type-tauri-orange?style=flat-square) [Tauri 实现全局快捷键功能](https://juejin.cn/post/7463475931527397403)
+- ![tauri](https://img.shields.io/badge/type-tauri-orange?style=flat-square) [Tauri 实现桌面应用的开机自启动](https://juejin.cn/post/7464223475106594825)
 
 ### 🧩 Open Source Projects & Practical Case Studies
 
+
+### 💬 Community Discussion
+
+- 微信小助手：INFINI-Labs
+
+![INFINI-Labs 微信二维码](./assets/wechat-qrcode.jpg)
+
+- [Discord](https://discord.com/invite/4tKTMkkvVX)
+- [Twitter / X](https://x.com/infinilabs)
 
 ---
 
