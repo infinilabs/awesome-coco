@@ -65,7 +65,7 @@ Coco AI is a fully open-source, cross-platform intelligent search and assistant 
 
 - 微信小助手：INFINI-Labs
 
-![INFINI-Labs 微信二维码](./assets/wechat-qrcode.jpg)
+![INFINI Labs 微信二维码](./assets/wechat-qrcode.jpg)
 
 - [Discord](https://discord.com/invite/4tKTMkkvVX)
 - [Twitter / X](https://x.com/infinilabs)
@@ -87,7 +87,7 @@ We welcome anyone who helps improve this list!
 
 ## 📄 License
 
-MIT License © [Infinilabs](https://infinilabs.com)
+MIT License © [INFINI Labs](https://infinilabs.com)
 
 ---
 
