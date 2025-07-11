@@ -18,10 +18,13 @@ Coco AI is a fully open-source, cross-platform intelligent search and assistant 
 
 ### 📘 Official Resources
 
-- [official homepage](https://coco.rs/)
-- [official documentation](https://docs.infinilabs.com/coco-app/main/)
-- [GitHub project - Coco App](https://github.com/infinilabs/coco-app)
-- [GitHub project - Coco Server](https://github.com/infinilabs/coco-server)
+- [Official Homepage](https://coco.rs/)
+- [GitHub - Coco App](https://github.com/infinilabs/coco-app)
+- [GitHub - Coco Server](https://github.com/infinilabs/coco-server)
+- [Documentation - Coco App ](https://docs.infinilabs.com/coco-app/main/)
+- [Documentation - Coco Server](https://docs.infinilabs.com/coco-server/main/)
+- [DeepWiki - Coco App](https://deepwiki.com/infinilabs/coco-app)
+- [DeepWiki - Coco Server](https://deepwiki.com/infinilabs/coco-server)
 
 ### 📢 News & Updates
 
